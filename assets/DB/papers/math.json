@@ -1,0 +1,148 @@
+
+  {
+    "id" : "ppr006",
+    "title" : "Math",
+    "imageUrl"  : "",
+    "description" : "Basic Mathematical Multiple Choice Questions (MCQ) to practice basic Mathematical Information",
+    "time_seconds": 900,
+    "questions": [
+      {
+        "id" : "ppr006q001",
+        "question": "A relationship in which one animal hunts,kills and eats another animals",
+        "answers": [
+          {
+            "identifier": "A",
+            "Answer": "Symbiosis"
+          },
+          {
+            "identifier": "B",
+            "Answer": "Mutualism"
+          },
+          {
+            "identifier": "C",
+            "Answer": "Parasitism"
+          },
+          {
+            "identifier": "D",
+            "Answer": "Predation"
+          }
+        ],
+        "correct_answer" : "D"
+      },
+      {
+        "id" : "ppr006q002",
+        "question": "A relationship in which one animal hunts,kills and eats another animals",
+        "answers": [
+          {
+            "identifier": "A",
+            "Answer": "Symbiosis"
+          },
+          {
+            "identifier": "B",
+            "Answer": "Mutualism"
+          },
+          {
+            "identifier": "C",
+            "Answer": "Parasitism"
+          },
+          {
+            "identifier": "D",
+            "Answer": "Predation"
+          }
+        ],
+        "correct_answer" : "D"
+      },
+      {
+        "id" : "ppr006q003",
+        "question": "A relationship in which one animal hunts,kills and eats another animals",
+        "answers": [
+          {
+            "identifier": "A",
+            "Answer": "Symbiosis"
+          },
+          {
+            "identifier": "B",
+            "Answer": "Mutualism"
+          },
+          {
+            "identifier": "C",
+            "Answer": "Parasitism"
+          },
+          {
+            "identifier": "D",
+            "Answer": "Predation"
+          }
+        ],
+        "correct_answer" : "D"
+      },
+      {
+        "id" : "ppr006q004",
+        "question": "A relationship in which one animal hunts,kills and eats another animals",
+        "answers": [
+          {
+            "identifier": "A",
+            "Answer": "Symbiosis"
+          },
+          {
+            "identifier": "B",
+            "Answer": "Mutualism"
+          },
+          {
+            "identifier": "C",
+            "Answer": "Parasitism"
+          },
+          {
+            "identifier": "D",
+            "Answer": "Predation"
+          }
+        ],
+        "correct_answer" : "D"
+      },
+      {
+        "id" : "ppr006q005",
+        "question": "A relationship in which one animal hunts,kills and eats another animals",
+        "answers": [
+          {
+            "identifier": "A",
+            "Answer": "Symbiosis"
+          },
+          {
+            "identifier": "B",
+            "Answer": "Mutualism"
+          },
+          {
+            "identifier": "C",
+            "Answer": "Parasitism"
+          },
+          {
+            "identifier": "D",
+            "Answer": "Predation"
+          }
+        ],
+        "correct_answer" : "D"
+      },
+      {
+        "id" : "ppr006q006",
+        "question": "A relationship in which one animal hunts,kills and eats another animals",
+        "answers": [
+          {
+            "identifier": "A",
+            "Answer": "Symbiosis"
+          },
+          {
+            "identifier": "B",
+            "Answer": "Mutualism"
+          },
+          {
+            "identifier": "C",
+            "Answer": "Parasitism"
+          },
+          {
+            "identifier": "D",
+            "Answer": "Predation"
+          }
+        ],
+        "correct_answer" : "D"
+      }
+    ]
+  }
